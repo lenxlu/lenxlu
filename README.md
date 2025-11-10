@@ -1,4 +1,4 @@
-## Hi there 👋
+![image alt](https://i.pinimg.com/736x/ff/e1/60/ffe160ea486e58935cb083d18b460e5f.jpg)
 
 <!--
 **lenxlu/lenxlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
