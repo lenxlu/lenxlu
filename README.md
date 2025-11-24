@@ -1,4 +1,11 @@
-![image alt](https://i.pinimg.com/1200x/68/1f/21/681f2145b3954ff0e42122de76cc0119.jpg)
+<p align="center">
+  <img src="https://img.shields.io/badge/hewoo%20people-1234-orange" />
+</p>
+
+  
+![image alt](https://media.discordapp.net/attachments/1402436846092550196/1442576222411554936/Screenshot_2025-11-23_at_9.55.19_PM.png?ex=6925ef4d&is=69249dcd&hm=15de39c4c6471db5719797985e9af7ed0b3ed43198daa3a716b4a489f3a84f87&=&format=webp&quality=lossless&width=1259&height=493)
+<p align="center">
+  <strong>big happy family</strong>
 
 <!--
 **lenxlu/lenxlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
